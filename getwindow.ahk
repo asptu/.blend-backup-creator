@@ -2,7 +2,7 @@
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
 
-
+; Customise Hotkey here (https://www.autohotkey.com/docs/Hotkeys.htm)
 ^!b::
 
 ; Get Active Window Title
