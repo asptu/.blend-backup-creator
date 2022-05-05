@@ -13,6 +13,11 @@ Creates .blend file backups via hotkey
 
 Download the code above, chuck it in a folder and run getwindow.ahk
 
-### Other
+### Hotkey
 
-Default hotkey is Ctrl + Alt + B, made for work so not sure if i'll add anything else/compile it
+Customise hotkey at the top of [getwindow.ahk](https://github.com/asptu/.blend-backup-creator/blob/main/getwindow.ahk)
+
+```
+; Default Hotkey (Ctrl + Alt + B)
+^!b:: ; < Customise Hotkey here (see https://www.autohotkey.com/docs/Hotkeys.htm)
+```
