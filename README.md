@@ -6,7 +6,7 @@
 Creates .blend file backups via hotkey (made for my work)
 
 ### Requires
-- [AutoHotkey](https://www.autohotkey.com/)
+- [AutoHotkey](https://www.autohotkey.com/) (Can be skipped, see [releases](https://github.com/asptu/.blend-backup-creator/releases/tag/exe))
 - [Python](https://www.python.org/)
 
 ### Running
