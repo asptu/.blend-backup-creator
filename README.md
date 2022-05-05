@@ -3,7 +3,7 @@
 
 # .blend backup creator
 
-Creates .blend file backups via hotkey
+Creates .blend file backups via hotkey (made for my work)
 
 ### Requires
 - [AutoHotkey](https://www.autohotkey.com/)
@@ -11,7 +11,7 @@ Creates .blend file backups via hotkey
 
 ### Running
 
-Download the code above, chuck it in a folder and run getwindow.ahk
+Download the code above, chuck it in a folder and run [getwindow.ahk](https://github.com/asptu/.blend-backup-creator/blob/main/getwindow.ahk)
 
 ### Hotkey
 
@@ -21,3 +21,9 @@ Customise hotkey at the top of [getwindow.ahk](https://github.com/asptu/.blend-b
 ; Default Hotkey (Ctrl + Alt + B)
 ^!b:: ; < Customise Hotkey here (see https://www.autohotkey.com/docs/Hotkeys.htm)
 ```
+
+### Todo
+
+- Compile into an executable to remove requirements
+- Add functionality for programs other than Blender?
+- Fix file numbering bug 
