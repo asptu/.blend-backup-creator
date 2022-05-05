@@ -17,7 +17,7 @@ Download the code above, chuck it in a folder and run [getwindow.ahk](https://gi
 
 Customise hotkey at the top of [getwindow.ahk](https://github.com/asptu/.blend-backup-creator/blob/main/getwindow.ahk)
 
-```
+```autohotkey
 ; Default Hotkey (Ctrl + Alt + B)
 ^!b:: ; < Customise Hotkey here (see https://www.autohotkey.com/docs/Hotkeys.htm)
 ```
