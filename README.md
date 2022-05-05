@@ -1,4 +1,6 @@
 
+<img align="right" src="https://github.com/asptu/.blend-backup-creator/blob/main/readme_files/Blender_logo_no_text.svg.png" height="200" width="200">
+
 # .blend backup creator
 
 Creates .blend file backups via hotkey
